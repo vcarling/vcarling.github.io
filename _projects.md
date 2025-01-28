@@ -34,7 +34,7 @@ In the process of data collection and experimentation, there is often interferen
 
 ## Developing Low Temperature Contacts in TMD Heterostructure Devices
 
-This project was completed for the UC Riverside Research in Science and Engineering (RISE) Program.
+This project was completed for the UC Riverside [Research in Science and Engineering (RISE) Program](https://rise.ucr.edu/).
 
 Studies of two-dimensional (2D) Van der Waals (VdW) heterostructure devices have contributed significantly to novel optoelectronics advancements and correlated quantum states at the atomic scale. WSe₂, a semiconducting transition metal dichalcogenide (TMD), has a direct bandgap when reduced to a monolayer, and can be used for both optical and electrical measurements. However, a lack of reliable, low resistance electrical contacts to semiconducting 2D materials has hindered careful electron transport studies and further development of optoelectronic devices.
 
@@ -62,7 +62,7 @@ My oral presentation can be found [here](https://www.youtube.com/watch?v=1-5c_JY
 
 This project was completed as a final project for **Dynamic Genome**, a research-based laboratory for a class alternative.
 
-![Dynamic Genome Gene](assets/img/dg_gene.jpg)
+![Dynamic Genome Gene](assets/img/dg_gene.png)
 
 The objective of this research project is to mutagenize and “knock-out” various genes related to WFL and KOIN to determine if there is redundancy in functionality. The comparison of A. thaliana phenotypes between ones with mutated and wild genetic sequences will determine whether each gene covers the same function as and WFL and KOIN.
 
