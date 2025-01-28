@@ -18,7 +18,7 @@ My final report can be found [here](assets/doc/pmr.pdf).
 
 ## Gamma Ray Emission Fom Radioactive Isobars
 
-This project was finished in fulfillment for the capstone laboratory course , PHYS 142W, at University of California, Riverside.
+This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
 
 ![Noise Fundamentals Setup](assets/img/gamma-ray.jpg)
 
@@ -34,7 +34,7 @@ In the process of data collection and experimentation, there is often interferen
 
 ## Developing Low Temperature Contacts in TMD Heterostructure Devices
 
-This project was completed for the UC Riverside [Research in Science and Engineering (RISE) Program](https://rise.ucr.edu/).
+This project was completed for the UC Riverside [**Research in Science and Engineering (RISE) Program**](https://rise.ucr.edu/).
 
 Studies of two-dimensional (2D) Van der Waals (VdW) heterostructure devices have contributed significantly to novel optoelectronics advancements and correlated quantum states at the atomic scale. WSe₂, a semiconducting transition metal dichalcogenide (TMD), has a direct bandgap when reduced to a monolayer, and can be used for both optical and electrical measurements. However, a lack of reliable, low resistance electrical contacts to semiconducting 2D materials has hindered careful electron transport studies and further development of optoelectronic devices.
 
@@ -48,7 +48,7 @@ My final report can be found here and oral presentation slides here.
 
 ## Optical Characterization of TMD Heterostructure Devices
 
-This project was completed for presentation at the [UC Riverside Undergraduate Research and Creative Activities Symposium](https://engage.ucr.edu/research/symposium).
+This project was completed for presentation at the [**UC Riverside Undergraduate Research and Creative Activities Symposium**](https://engage.ucr.edu/research/symposium).
 
 Silicon-based semiconductor devices have come to make many modern technological advances including transistors and photodetectors. Two-dimensional (2D) van der Waals materials are of interest for fabricating even smaller devices because they can be mechanically exfoliated to the atomically-thin limit. One class of such materials, monolayer semiconducting transition metal dichalcogenides (TMDs), are of particular interest for optoelectronic device applications due to their direct band gap. Due to their spin-valley locking, TMDs can make use of the additional valley degree of freedom.
 
@@ -56,11 +56,11 @@ Silicon-based semiconductor devices have come to make many modern technological 
 
 We create and optically characterize the electrically controllable WSe₂ and MoSe₂ monolayer transistor devices at room and cryogenic temperatures. These devices will serve as the basis for designing novel valleytronic devices, where photons can be stored and manipulated in both the spin and valley states.
 
-My oral presentation can be found [here](https://www.youtube.com/watch?v=1-5c_JY-Y90).
+My oral presentation can be found [**here**](https://www.youtube.com/watch?v=1-5c_JY-Y90).
 
 ## Mutating AT3G08680 Using CRISPR-Cas9 to Determine Functional Redundancy
 
-This project was completed as a final project for **Dynamic Genome**, a research-based laboratory for a class alternative.
+This project was completed as a final project for [**Dynamic Genome**](https://dynamicgenome.ucr.edu/), a research-based laboratory for a class alternative.
 
 ![Dynamic Genome Gene](assets/img/dg_gene.png)
 
