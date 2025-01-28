@@ -16,7 +16,7 @@ In this experiment, we measue resonant frequencies with PNMR. Each of the tested
 
 My final report can be found [here](assets/files/Pulsed_Nuclear_Magnetic_Resonance.pdf).
 
-## Gamma Ray Emission Fom Radioactive Isobars
+## Gamma Ray Emission From Radioactive Isobars
 
 This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
 
