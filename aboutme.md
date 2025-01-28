@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+cover-img:/assets/img/5chill.JPG
 ---
 
 I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. My laboratory experience consists of both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.
