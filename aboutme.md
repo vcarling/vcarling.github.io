@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+subtitle:
 cover-img: /assets/img/5chill.JPG
 ---
 
