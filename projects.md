@@ -4,10 +4,10 @@ title: Projects
 subtitle: 
 cover-img: /assets/img/sbkg.jpg
 ---
- My laboratory experience consists of 
-both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.
+*My laboratory experience consists of both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.*
 
 ## Pulsed Nuclear Magnetic Resonance
+*Nov. 2024 - Dec. 2024*
 
 This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
 
@@ -20,6 +20,7 @@ In this experiment, we measue resonant frequencies with PNMR. Each of the tested
 My final report can be found [**here**](assets/files/Pulsed_Nuclear_Magnetic_Resonance.pdf).
 
 ## Gamma Ray Emission From Radioactive Isobars
+*Nov. 2024*
 
 This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
 
@@ -30,6 +31,7 @@ Three types of decay—beta (β) decay, positron decay, and electron capture—a
 My final report can be found [**here**](assets/files/Gamma_Ray_Emission_from_Radioactive_Isobars.pdf).
 
 ## Noise Fundamentals
+*Oct. 2024 - Nov. 2024*
 
 This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
 
@@ -40,6 +42,7 @@ In the process of data collection and experimentation, there is often interferen
 My final report can be found [**here**](assets/files/Noise_Fundamentals.pdf).
 
 ## Developing Low Temperature Contacts in TMD Heterostructure Devices
+*Jun. 2024 - Aug. 2024*
 
 This project was completed for the UC Riverside [**Research in Science and Engineering (RISE) Program**](https://rise.ucr.edu/).
 
@@ -54,6 +57,7 @@ The development of low temperature contacts will open up the possibility to meas
 My final report can be found [**here**](assets/files/Vanessa_Kwong_RISE_Final_Paper.pdf) and oral presentation slides [**here**](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
 
 ## Optical Characterization of TMD Heterostructure Devices
+*Nov. 2023 - Apr. 2024*
 
 This project was completed for presentation at the [**UC Riverside Undergraduate Research and Creative Activities Symposium**](https://engage.ucr.edu/research/symposium).
 
@@ -66,6 +70,7 @@ We create and optically characterize the electrically controllable WSe₂ and Mo
 My oral presentation can be found [**here**](https://www.youtube.com/watch?v=1-5c_JY-Y90).
 
 ## Mutating AT3G08680 Using CRISPR-Cas9 to Determine Functional Redundancy
+*Jan. 2021 - Mar. 2021*
 
 This project was completed as a final project for [**Dynamic Genome**](https://dynamicgenome.ucr.edu/), a research-based laboratory for a class alternative.
 
@@ -76,12 +81,14 @@ The objective of this research project is to mutagenize and “knock-out” vari
 My final report can be found [**here**](Vanessa_Kwong_DG_paper.pdf) and my presentation slides [**here**](Vanessa_Kwong_DG_ppt.pdf).
 
 ## Bacterial Analysis and Effectiveness of Common Natural Preservatives
+*Jan. 2020 - May. 2020*
 
 This project was completed as a capstone reearch for the [**PLTW Biomedical Sciences Pathway**](https://www.pltw.org/curriculum/biomedical-science) at Glen A. Wilson High School.
 
 Bacterial counts, spectrophotometry of serial dilutions, and data analyses are done on food items, comparing to use of several natural preservatives: honey, sugar, and salt in preventing bacterial growth over time.
 
 ## Bacterial Analysis and Effectivelness of Common Glove Materials
+*Oct. 2017 - Apr. 2018*
 
 This project was completed for an evaluation of 3rd place Senior Microbiology Research Award at the **2018 Los Angeles County Science and Engineering Fair**,in representation of [**Glen A. Wilson High School**](https://wihs.hlpschools.org/).
 
