@@ -7,7 +7,7 @@ cover-img: /assets/img/5chill.JPG
 
 I am a fifth-year student and research assistant at University of California, Riverside, pursuing a bachelors in Physics. My laboratory experience consists of both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.
 
-With additional internship, lab, and industry experiences, I hope to continue in the field of condensed matter physics, materials science & engineering, or a related area of study.
+With additional internship, lab, and industry experiences, I hope to continue in the field of condensed matter physics, materials science & engineering, or a related area of study. You can find my CV [**here**](assets/files/Vanessa_Kwong_CV.pdf)
 
 ## Education
 
