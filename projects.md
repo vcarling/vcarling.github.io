@@ -14,15 +14,17 @@ Pulsed nuclear magnetic resonance (PNMR) is a method used to determine the magne
 
 In this experiment, we measue resonant frequencies with PNMR. Each of the tested liquid samples—water, glycerin, and two concentrations of Fe3+ ionized solutions—contains protons in the nuclei which are measured for their collective resonant adsorption, determined by the finel tuned resonant condition. This is done through observation of the free induction decay, or FID, telling the different relaxations of the spin-spin relaxation (T1) and spin-lattice relaxation (T2)—which we can use to calculate magnetic moments of the nuclei.
 
-My final report can be found [here](assets/doc/pmr.pdf).
+My final report can be found [here](assets/files/Pulsed_Nuclear_Magnetic_Resonance.pdf).
 
 ## Gamma Ray Emission Fom Radioactive Isobars
 
 This project was finished in fulfillment for the capstone laboratory course , **PHYS 142W**, at University of California, Riverside.
 
-![Noise Fundamentals Setup](assets/img/gamma-ray.jpg)
+![Gamma Ray Setup](assets/img/gamma-ray.jpg)
 
 Three types of decay—beta (β) decay, positron decay, and electron capture—are studied through collection of gamma-ray energy spectra of five different radioactive materials. 
+
+My final report can be found [here](assets/files/Gamma_Ray_Emission_from_Radioactive_Isobars.pdf).
 
 ## Noise Fundamentals
 
@@ -31,6 +33,8 @@ This project was finished in fulfillment for the capstone laboratory course , **
 ![Noise Fundamentals Setup](assets/img/noise-fund.jpg)
 
 In the process of data collection and experimentation, there is often interference or an unwanted signal that affects the collected numerical or observational results, defined as noise. Here, we examine two types of common noise: Johnson noise, which is caused by thermal interference in electron flux during flow, and Shot noise, which is caused by a difference in electrical charge.
+
+My final report can be found [here](assets/files/Noise_Fundamentals.pdf).
 
 ## Developing Low Temperature Contacts in TMD Heterostructure Devices
 
@@ -44,7 +48,7 @@ Here, we aim to develop reliable, Ohmic contacts by using pre-patterned platinum
 
 The development of low temperature contacts will open up the possibility to measure Quantum Hall states with observable Shubnikov-de Haas (SdH) oscillations and other quantum structures such as electrically controlled quantum dots and correlated states in TMD twisted heterostructures. Going forward, we will try to develop contacts for other TMD materials to expand the available 2D materials for electronic studies and the development of efficient, silicon-based devices among modern electronics.
 
-My final report can be found here and oral presentation slides here.
+My final report can be found [here](assets/files/Vanessa-Kwong-RISE-Final-Paper.pdf) and oral presentation slides [here](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
 
 ## Optical Characterization of TMD Heterostructure Devices
 
@@ -71,6 +75,8 @@ The objective of this research project is to mutagenize and “knock-out” vari
 This project was completed as a capstone reearch for the **PLTW Biomedical Sciences Pathway**.
 
 Bacterial counts, spectrophotometry of serial dilutions, and data analyses are done on food items, comparing to use of several natural preservatives: honey, sugar, and salt in preventing bacterial growth over time.
+
+My final report can be found [here](Vanessa_Kwong_DG_paper.pdf) and my presentation slides [here](Vanessa_Kwong_DG_ppt.pdf).
 
 ## Bacterial Analysis and Effectivelness of Common Glove Materials
 
