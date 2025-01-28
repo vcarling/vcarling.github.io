@@ -11,7 +11,7 @@ With additional internship, lab, and industry experiences, I hope to continue in
 
 #### University of California, Riverside
 **B.S. Physics**, Expected April 2025
-![ucr](assets/img/ucr.png)
+![ucr](assets/img/belltower.jpg)
 
 My first three years in university was spent towards a degree in biology on a pre-medicine route. By the beginning of my fourth year, I had found even greater interest in being on the forefront of research and studying these processes and interactions at an atomic level. Through initially declaring a minor in physics, I explored specific fields of physics through various upper-division courses and research, eventually switching to the major.
 
@@ -21,6 +21,8 @@ My first three years in university was spent towards a degree in biology on a pr
 ### Research Experience and Interests
 
 In my final years of my undergraduate degree, I have been working as an undergraduate researcher in experimental condensed matter at [The Joe Lab](https://joelab.ucr.edu/), focusing on transport and optical properties of two-dimensional materials within heterostructure devices.
+
+![mse](assets/img/mse.jpg)
 
 Through extensive laboratory and research experience, I have become an adaptable and dedicated researcher, especially driven by my fascination and curiosity to understand and expand the novelty in science behind modern technological advancements.
 
