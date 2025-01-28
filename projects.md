@@ -4,6 +4,8 @@ title: Projects
 subtitle: 
 cover-img: /assets/img/sbkg.jpg
 ---
+ My laboratory experience consists of 
+both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.
 
 ## Pulsed Nuclear Magnetic Resonance
 
