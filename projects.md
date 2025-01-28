@@ -49,7 +49,7 @@ Here, we aim to develop reliable, Ohmic contacts by using pre-patterned platinum
 
 The development of low temperature contacts will open up the possibility to measure Quantum Hall states with observable Shubnikov-de Haas (SdH) oscillations and other quantum structures such as electrically controlled quantum dots and correlated states in TMD twisted heterostructures. Going forward, we will try to develop contacts for other TMD materials to expand the available 2D materials for electronic studies and the development of efficient, silicon-based devices among modern electronics.
 
-My final report can be found [**here**](assets/files/Vanessa-Kwong-RISE-Final-Paper.pdf) and oral presentation slides [**here**](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
+My final report can be found [**here**](assets/files/Vanessa_Kwong_RISE_Final_Paper.pdf) and oral presentation slides [**here**](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
 
 ## Optical Characterization of TMD Heterostructure Devices
 
