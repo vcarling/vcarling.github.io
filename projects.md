@@ -6,6 +6,7 @@ cover-img: /assets/img/sbkg.jpg
 ---
 *My laboratory experience consists of both team-based and independent research projects in experimental condensed matter physics during my time in university, as well as microbiology prior.*
 
+---
 ## Pulsed Nuclear Magnetic Resonance
 *Nov. 2024 - Dec. 2024*
 
@@ -19,6 +20,8 @@ In this experiment, we measue resonant frequencies with PNMR. Each of the tested
 
 My final report can be found [**here**](assets/files/Pulsed_Nuclear_Magnetic_Resonance.pdf).
 
+---
+
 ## Gamma Ray Emission From Radioactive Isobars
 *Nov. 2024*
 
@@ -30,6 +33,8 @@ Three types of decay—beta (β) decay, positron decay, and electron capture—a
 
 My final report can be found [**here**](assets/files/Gamma_Ray_Emission_from_Radioactive_Isobars.pdf).
 
+---
+
 ## Noise Fundamentals
 *Oct. 2024 - Nov. 2024*
 
@@ -40,6 +45,8 @@ This project was finished in fulfillment for the capstone laboratory course , **
 In the process of data collection and experimentation, there is often interference or an unwanted signal that affects the collected numerical or observational results, defined as noise. Here, we examine two types of common noise: Johnson noise, which is caused by thermal interference in electron flux during flow, and Shot noise, which is caused by a difference in electrical charge.
 
 My final report can be found [**here**](assets/files/Noise_Fundamentals.pdf).
+
+---
 
 ## Developing Low Temperature Contacts in TMD Heterostructure Devices
 *Jun. 2024 - Aug. 2024*
