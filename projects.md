@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: 
+cover-img: /assets/img/sbkg.jpg
 ---
 
 ## Pulsed Nuclear Magnetic Resonance
