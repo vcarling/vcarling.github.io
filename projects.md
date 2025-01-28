@@ -63,6 +63,8 @@ The development of low temperature contacts will open up the possibility to meas
 
 My final report can be found [**here**](assets/files/Vanessa_Kwong_RISE_Final_Paper.pdf) and oral presentation slides [**here**](assets/files/Vanessa-Kwong-RISE-Oral-Presentation.pdf).
 
+---
+
 ## Optical Characterization of TMD Heterostructure Devices
 *Nov. 2023 - Apr. 2024*
 
@@ -76,6 +78,8 @@ We create and optically characterize the electrically controllable WSe₂ and Mo
 
 My oral presentation can be found [**here**](https://www.youtube.com/watch?v=1-5c_JY-Y90).
 
+---
+
 ## Mutating AT3G08680 Using CRISPR-Cas9 to Determine Functional Redundancy
 *Jan. 2021 - Mar. 2021*
 
@@ -87,12 +91,16 @@ The objective of this research project is to mutagenize and “knock-out” vari
 
 My final report can be found [**here**](Vanessa_Kwong_DG_paper.pdf) and my presentation slides [**here**](Vanessa_Kwong_DG_ppt.pdf).
 
+---
+
 ## Bacterial Analysis and Effectiveness of Common Natural Preservatives
 *Jan. 2020 - May. 2020*
 
 This project was completed as a capstone reearch for the [**PLTW Biomedical Sciences Pathway**](https://www.pltw.org/curriculum/biomedical-science) at Glen A. Wilson High School.
 
 Bacterial counts, spectrophotometry of serial dilutions, and data analyses are done on food items, comparing to use of several natural preservatives: honey, sugar, and salt in preventing bacterial growth over time.
+
+---
 
 ## Bacterial Analysis and Effectivelness of Common Glove Materials
 *Oct. 2017 - Apr. 2018*
