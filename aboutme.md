@@ -11,12 +11,9 @@ With additional internship, lab, and industry experiences, I hope to continue in
 
 #### University of California, Riverside
 **B.S. Physics**, Expected April 2025
-![ucr](assets/img/belltower.jpg)
+![ucr](assets/img/belltower.JPG)
 
 My first three years in university was spent towards a degree in biology on a pre-medicine route. By the beginning of my fourth year, I had found even greater interest in being on the forefront of research and studying these processes and interactions at an atomic level. Through initially declaring a minor in physics, I explored specific fields of physics through various upper-division courses and research, eventually switching to the major.
-
-**Relevant Coursework**
-
 
 ### Research Experience and Interests
 
